@@ -1,0 +1,21 @@
+: 165
+-: 355734591
+Andalucía: 118555441
+Aragón: 23164195
+Asturias: 10409334
+Balears: 7200154
+Canarias: 10435876
+Cantabria: 7197274
+Castilla - La Mancha: 42093770
+Castilla y León: 42758066
+Cataluña: 109242195
+Ceuta: 912195
+Comunitat Valenciana: 61421312
+Extremadura: 14898198
+Galicia: 38851411
+Madrid: 137974246
+Melilla: 728066
+Murcia: 14788180
+Navarra: 9380568
+País Vasco: 40013495
+Rioja: 5889956

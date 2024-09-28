@@ -4899,7 +4899,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "ESRI", 
-        "name": "La Rioja"
+        "name": "Rioja"
       }, 
       "id": 3
     }, 
@@ -24971,7 +24971,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "ESVC", 
-        "name": "Comunidad Valenciana"
+        "name": "Comunitat Valenciana"
       }, 
       "id": 9
     }, 
@@ -34021,7 +34021,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "ESCN", 
-        "name": "Islas Canarias"
+        "name": "Canarias"
       }, 
       "id": 14
     }, 
@@ -35379,7 +35379,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "ESIB", 
-        "name": "Islas Baleares"
+        "name": "Balears"
       }, 
       "id": 15
     }, 
@@ -40367,7 +40367,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "ESCM", 
-        "name": "Castilla la Mancha"
+        "name": "Castilla - La Mancha"
       }, 
       "id": 16
     }, 
@@ -42089,7 +42089,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "ESMD", 
-        "name": "Comunidad de Madrid"
+        "name": "Madrid"
       }, 
       "id": 17
     }, 
