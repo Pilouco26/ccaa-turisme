@@ -32,17 +32,25 @@ def get_data_and_save():
             # Get the necessary columns
             ccaa = processed_row[1]
             year = processed_row[-2][:4]
+
+            # Only process rows for the year 2022 and valid tourist numbers
             if processed_row[-1] != 'Total' and year == '2023':
                 tourists = int(processed_row[-1])
             else:
                 continue
 
             count += tourists
+
+            # When the region changes, save the count for the old region
             if old_ccaa != ccaa:
-                data[old_ccaa] = count
-                old_ccaa = ccaa
-                count = 0
-    data[ccaa] = count
+                if old_ccaa and old_ccaa != '-':  # Ensure old_ccaa is not empty or invalid
+                    data[old_ccaa] = count  # Save the tourist count for the previous region
+                old_ccaa = ccaa  # Update old_ccaa to the current region
+                count = 0  # Reset the count for the new region
+
+        # Ensure the last region is added to the data dictionary if valid
+        if ccaa and ccaa != '-':
+            data[ccaa] = count
 
     # Save the data into a text file
     with open('data_tourism.txt', mode='w', encoding='utf-8') as f:
