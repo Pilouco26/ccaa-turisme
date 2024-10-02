@@ -53,7 +53,7 @@ def get_data_and_save():
             data[ccaa] = count
 
     # Save the data into a text file
-    with open('data_tourism.txt', mode='w', encoding='utf-8') as f:
+    with open('data_tourism', mode='w', encoding='utf-8') as f:
         for ccaa, tourists in data.items():
             f.write(f"{ccaa}: {tourists}\n")
 
