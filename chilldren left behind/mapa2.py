@@ -1,13 +1,8 @@
-import json
 import os
 
-import geopandas as gpd
 import matplotlib.pyplot as plt
-import pandas as pd
-from matplotlib.colors import LinearSegmentedColormap
-from matplotlib.ticker import FuncFormatter
 
-from visualize import plot_data_map
+from espanya.visualize import plot_data_map
 
 
 def calculate_tourists_per_habitant(tourists_data, habitants_data):
@@ -35,7 +30,7 @@ def load_data_from_file(file):
 
 print("getting data...")
 # Load the data into the dictionary
-data = load_data_from_file('../data_tourism')
+data = load_data_from_file('../data/data_tourism')
 habitants = load_data_from_file('data_superficie')
 print("data fetched")
 

@@ -7,7 +7,7 @@ names = []
 values = []
 
 # Load the data from the file
-with open('../data_tourism', 'r', encoding='utf-8') as file:
+with open('../data/data_tourism', 'r', encoding='utf-8') as file:
     for line in file:
         # Split each line into name and value using ':' as the delimiter
         name, value = line.strip().split(': ')

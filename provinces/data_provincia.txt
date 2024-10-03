@@ -1,0 +1,51 @@
+AlmerÃ­a: 2964899
+CÃ¡diz: 6689213
+CÃ³rdoba: 2704515
+Granada: 3981001
+Huelva: 3498911
+JaÃ©n: 2445738
+MÃ¡laga: 6562825
+Sevilla: 5311131
+Huesca: 2672716
+Teruel: 1664076
+Zaragoza: 2756616
+Asturias: 3129203
+Illes Balears: 2994028
+Las Palmas: 1758731
+Santa Cruz de Tenerife: 1571693
+Cantabria: 5145570
+Ãvila: 2695117
+Burgos: 2778703
+LeÃ³n: 2253225
+Palencia: 1133295
+Salamanca: 1988611
+Segovia: 2123831
+Soria: 1134428
+Valladolid: 1956310
+Zamora: 2290094
+Albacete: 1841572
+Ciudad Real: 2102849
+Cuenca: 2113860
+Guadalajara: 2780806
+Toledo: 6867301
+Barcelona: 9063439
+Girona: 7218613
+Lleida: 2879803
+Tarragona: 7545592
+Alicante: 7507991
+CastellÃ³n: 3804207
+Valencia: 6288178
+Badajoz: 2157712
+CÃ¡ceres: 3091604
+A CoruÃ±a: 3473622
+Lugo: 1793276
+Ourense: 1575932
+Pontevedra: 5058757
+Madrid: 17021344
+Murcia: 3142413
+Navarra: 2997191
+Ãlava: 1772851
+Vizcaya: 2906455
+GuipÃºzcoa: 2085562
+La Rioja: 1857351
+Ceuta: 151866
