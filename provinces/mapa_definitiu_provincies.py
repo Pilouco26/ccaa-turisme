@@ -4,8 +4,17 @@ import geopandas as gpd
 import json
 import numpy as np  # Import numpy for logarithmic scaling
 
-# Function to load the tourism data from the file (you'll need to implement this if not already done)
-from espanya.visualize import load_data_from_file
+# Function to load the tourism data from the file
+def load_data_from_file(file):
+    source = {}
+    with open(file, mode='r', encoding='utf-8') as file:
+        for line in file:
+            # Each line has the format: "ccaa: tourists"
+            ccaa, tourists = line.strip().split(': ')
+            source[ccaa] = int(tourists)  # Convert tourists to an integer
+    return source
+
+
 
 # Load the tourism data into a dictionary
 data = load_data_from_file('data_provincia.txt')
@@ -14,11 +23,11 @@ data = load_data_from_file('data_provincia.txt')
 data = {k: v / 1_000_000 for k, v in data.items()}
 
 # Load the GeoJSON file with correct utf-8 encoding
-with open('../maps/spain2.geojson', encoding='utf-8') as f:
+with open('../no cal mirar/maps/spain2.geojson', encoding='utf-8') as f:
     geojson_data = json.load(f)
 
 # Load the GeoDataFrame from the GeoJSON file
-es_gdf = gpd.read_file('../maps/spain2.geojson')
+es_gdf = gpd.read_file('../no cal mirar/maps/spain2.geojson')
 
 # Add the tourists data to the GeoDataFrame
 es_gdf['Tourists'] = es_gdf['provincia'].map(data)

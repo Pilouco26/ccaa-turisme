@@ -35,7 +35,7 @@ def get_data_and_save():
     old_provincia = ""
     count = 0
 
-    with open('../data/cleaned_53000.csv', mode='r', encoding='utf-8') as file:
+    with open('../no cal mirar/data/cleaned_53000.csv', mode='r', encoding='utf-8') as file:
         reader = csv.reader(file, delimiter=';')
         for row in reader:
             processed_row = process_row(';'.join(row))

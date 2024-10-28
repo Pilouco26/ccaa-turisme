@@ -1,0 +1,809 @@
+Abella de la Conca: 0
+Abrera: 66
+Ager: 0
+Agramunt: 0
+Aguilar de Segarra: 0
+Agullana: 0
+Aiguafreda: 0
+Aiguamurcia: 0
+Aiguaviva: 0
+Aitona: 0
+Alas i Cerc: 0
+Albanya: 0
+Albatarrec: 0
+Albesa: 0
+Albinyana: 0
+Albons: 0
+Alcanar: 216
+Alcano: 0
+Alcarras: 55
+Alcoletge: 0
+Alcover: 0
+Aldover: 0
+Alella: 91
+Alfara de Carles: 0
+Alfarras: 0
+Alfes: 0
+Alforja: 0
+Algerri: 0
+Alguaire: 0
+Alins: 0
+Alio: 0
+Almacelles: 40
+Almatret: 0
+Almenar: 0
+Almoster: 0
+Alos de Balaguer: 0
+Alp: 0
+Alpens: 0
+Alpicat: 0
+Alt Aneu: 82
+Altafulla: 77
+Amer: 0
+Amposta: 77
+Angles: 0
+Anglesola: 0
+Arbeca: 0
+Arboli: 0
+Arbucies: 0
+Arenys de Mar: 67
+Arenys de Munt: 0
+Argelaguer: 0
+Argencola: 0
+Argentona: 47
+Arnes: 0
+Arres: 0
+Arseguel: 0
+Artes: 0
+Artesa de Lleida: 0
+Artesa de Segre: 0
+Asco: 0
+Aspa: 0
+Avia: 0
+Avinyo: 0
+Avinyonet de Puigventos: 0
+Avinyonet del Penedes: 266
+Badalona: 1081
+Badia del Valles: 0
+Baga: 0
+Baix Pallars: 0
+Balaguer: 30
+Balenya: 0
+Balsareny: 0
+Banyeres del Penedes: 0
+Banyoles: 236
+Barbens: 0
+Barbera de la Conca: 0
+Barbera del Valles: 4737
+Barcelona: 36633
+Bascara: 0
+Bassella: 0
+Batea: 0
+Bausen: 0
+Begues: 0
+Begur: 426
+Belianes: 0
+Bellaguarda: 0
+Bellcaire d'Emporda: 0
+Bellcaire d'Urgell: 0
+Bell-lloc d'Urgell: 0
+Bellmunt del Priorat: 0
+Bellmunt d'Urgell: 0
+Bellprat: 0
+Bellpuig: 0
+Bellvei: 0
+Bellver de Cerdanya: 0
+Bellvis: 0
+Benavent de Segria: 0
+Benifallet: 0
+Benissanet: 0
+Berga: 33
+Besalu: 0
+Bescano: 0
+Beuda: 0
+Biosca: 0
+Biure: 0
+Blancafort: 0
+Blanes: 971
+Boadella i les Escaules: 0
+Bolvir: 0
+Bonastre: 0
+Bordils: 0
+Borrassa: 0
+Borreda: 45
+Bossost: 152
+Bot: 0
+Botarell: 0
+Bovera: 0
+Brafim: 0
+Breda: 0
+Cabaces: 0
+Cabanabona: 31
+Cabanelles: 46
+Cabanes: 343
+Cabo: 0
+Cabra del Camp: 0
+Cabrera d'Anoia: 0
+Cabrera de Mar: 66
+Cabrils: 0
+Cadaques: 247
+Calaf: 49
+Calafell: 1594
+Calders: 0
+Caldes de Malavella: 0
+Caldes de Montbui: 0
+Caldes d'Estrac: 0
+Calella: 1402
+Calldetenes: 0
+Callus: 0
+Calonge de Segarra: 0
+Camarasa: 99
+Camarles: 162
+Cambrils: 7881
+Camos: 0
+Campdevanol: 0
+Campelles: 0
+Campins: 0
+Campllong: 0
+Camprodon: 0
+Canejan: 0
+Canet d'Adri: 0
+Canet de Mar: 217
+Canovelles: 41
+Canoves i Samalus: 0
+Cantallops: 0
+Canyelles: 118
+Capafonts: 0
+Capcanes: 0
+Capellades: 0
+Capmany: 0
+Capolat: 45
+Cardedeu: 0
+Cardona: 0
+Carme: 0
+Caseres: 0
+Cassa de la Selva: 33
+Casserres: 0
+Castell de l'Areny: 0
+Castell de Mur: 0
+Castellar de la Ribera: 0
+Castellar de n'Hug: 0
+Castellar del Riu: 0
+Castellar del Valles: 114
+Castellbell i el Vilar: 0
+Castellbisbal: 210
+Castellcir: 0
+Castelldans: 150
+Castelldefels: 1910
+Castellet i la Gornal: 148
+Castellfollit de la Roca: 0
+Castellfollit de Riubregos: 0
+Castellfollit del Boix: 0
+Castellgali: 0
+Castellnou de Bages: 0
+Castellnou de Seana: 0
+Castello de Farfanya: 0
+Castello d'Empuries: 657
+Castelloli: 0
+Castellsera: 0
+Castelltercol: 0
+Castellvell del Camp: 0
+Castellvi de la Marca: 0
+Castellvi de Rosanes: 0
+Cava: 0
+Celra: 0
+Centelles: 0
+Cercs: 51
+Cerdanyola del Valles: 921
+Cervello: 194
+Cervera: 107
+Cervia de les Garrigues: 0
+Cervia de Ter: 0
+Cistella: 0
+Ciutadilla: 0
+Clariana de Cardener: 0
+Colera: 0
+Coll de Nargo: 0
+Collbato: 0
+Colldejou: 0
+Collsuspina: 0
+Colomers: 47
+Conca de Dalt: 0
+Conesa: 0
+Constanti: 76
+Copons: 0
+Corbera de Llobregat: 0
+Corbera d'Ebre: 0
+Corbins: 0
+Corca: 135
+Cornella de Llobregat: 818
+Cornella del Terri: 0
+Cornudella de Montsant: 0
+Creixell: 242
+Crespia: 0
+Cubelles: 97
+Cubells: 0
+Cunit: 88
+Darnius: 0
+Das: 0
+Deltebre: 314
+Dosrius: 64
+Duesaigues: 0
+Esparreguera: 36
+Espinelves: 51
+Esplugues de Llobregat: 205
+Espolla: 0
+Esponella: 0
+Espot: 126
+Estamariu: 0
+Estaras: 0
+Esterri d'Aneu: 0
+Esterri de Cardos: 0
+Falset: 0
+Farrera: 0
+Figaro-Montmany: 0
+Figols: 0
+Figols i Alinya: 0
+Figueres: 66
+Figuerola del Camp: 0
+Flaca: 0
+Flix: 0
+Fogars de la Selva: 0
+Fogars de Montclus: 0
+Foixa: 0
+Folgueroles: 0
+Fondarella: 0
+Fonollosa: 0
+Fontanals de Cerdanya: 0
+Fontanilles: 0
+Fontcoberta: 0
+Font-rubi: 0
+Foradada: 0
+Forallac: 0
+Fores: 0
+Fornells de la Selva: 0
+Fortia: 0
+Freginals: 0
+Fulleda: 0
+Gaia: 0
+Gallifa: 0
+Gandesa: 0
+Garcia: 0
+Garrigas: 0
+Garrigoles: 0
+Garriguella: 38
+Gava: 587
+Gavet de la Conca: 0
+Gelida: 0
+Ger: 0
+Gimenells i el Pla de la Font: 0
+Ginestar: 114
+Girona: 1294
+Gironella: 0
+Gisclareny: 0
+Godall: 0
+Golmes: 0
+Gombren: 0
+Gosol: 0
+Granera: 142
+Granollers: 965
+Granyanella: 0
+Granyena de les Garrigues: 0
+Granyena de Segarra: 0
+Gratallops: 0
+Gualba: 0
+Gualta: 0
+Guardiola de Bergueda: 0
+Guils de Cerdanya: 0
+Guimera: 0
+Guissona: 0
+Guixers: 0
+Gurb: 0
+Horta de Sant Joan: 0
+Hostalric: 0
+Igualada: 308
+Isona i Conca Della: 0
+Isovol: 0
+Ivars de Noguera: 0
+Ivars d'Urgell: 0
+Ivorra: 0
+Jafre: 0
+Jorba: 0
+Josa i Tuixen: 0
+Juia: 0
+Juncosa: 0
+Juneda: 35
+Les: 39
+Linyola: 0
+Llado: 0
+Lladorre: 0
+Lladurs: 0
+Llagostera: 0
+Llambilles: 0
+Llanars: 0
+Llanca: 71
+Llardecans: 0
+Llavorsi: 307
+Lleida: 2087
+Llers: 0
+Lles de Cerdanya: 0
+Llica d'Amunt: 0
+Llica de Vall: 0
+Llimiana: 0
+Llinars del Valles: 0
+Llivia: 0
+Llobera: 0
+Llorenc del Penedes: 76
+Lloret de Mar: 2681
+Lluca: 0
+Macanet de Cabrenys: 0
+Macanet de la Selva: 0
+Madremanya: 0
+Maia de Montcal: 0
+Maials: 0
+Malda: 38
+Malgrat de Mar: 487
+Malla: 0
+Manlleu: 66
+Manresa: 657
+Marca: 0
+Margalef: 0
+Marganell: 49
+Martorell: 487
+Martorelles: 0
+Mas de Barberans: 0
+Masarac: 0
+Masdenverge: 0
+Masllorenc: 0
+Maspujols: 0
+Masquefa: 0
+Massalcoreig: 0
+Massanes: 0
+Massoteres: 0
+Matadepera: 51
+Mataro: 803
+Mediona: 0
+Menarguens: 0
+Meranges: 0
+Mieres: 449
+Miralcamp: 0
+Miravet: 0
+Moia: 37
+Molins de Rei: 258
+Mollerussa: 58
+Mollet de Peralada: 0
+Mollet del Valles: 424
+Mollo: 0
+Monistrol de Calders: 0
+Monistrol de Montserrat: 0
+Montagut i Oix: 0
+Montblanc: 148
+Montbrio del Camp: 0
+Montcada i Reixac: 438
+Montclar: 0
+Montella i Martinet: 0
+Montesquiu: 0
+Montferrer i Castellbo: 0
+Montferri: 0
+Montgai: 0
+Montgat: 34
+Montmajor: 0
+Montmaneu: 0
+Montmelo: 0
+Montoliu de Lleida: 0
+Montoliu de Segarra: 0
+Montornes de Segarra: 0
+Montornes del Valles: 0
+Mont-ral: 0
+Mont-ras: 0
+Mont-roig del Camp: 1758
+Montseny: 0
+Mora d'Ebre: 0
+Mora la Nova: 0
+Muntanyola: 0
+Mura: 0
+Nalec: 1405
+Naut Aran: 5036
+Navarcles: 0
+Navas: 0
+Navata: 0
+Naves: 0
+Nulles: 0
+Oden: 0
+Odena: 0
+Ogassa: 0
+Olerdola: 0
+Olesa de Bonesvalls: 0
+Olesa de Montserrat: 0
+Oliana: 0
+Oliola: 0
+Olius: 0
+Olivella: 0
+Olost: 42
+Olot: 0
+Olvan: 0
+Ordis: 50
+Organya: 43
+Oris: 0
+Orista: 0
+Orpi: 0
+Orrius: 0
+Os de Balaguer: 0
+Osor: 0
+Osso de Sio: 0
+Pacs del Penedes: 0
+Palafolls: 30
+Palafrugell: 1077
+Palamos: 756
+Palau de Santa Eulalia: 0
+Palau-sator: 0
+Palau-saverdera: 0
+Palau-solita i Plegamans: 0
+Palleja: 0
+Palol de Revardit: 0
+Pals: 369
+Pardines: 0
+Parets del Valles: 87
+Parlava: 0
+Passanant i Belltall: 0
+Pau: 0
+Pauls: 0
+Pedret i Marza: 0
+Penelles: 0
+Perafita: 0
+Perafort: 0
+Peralada: 0
+Peramola: 0
+Piera: 0
+Pineda de Mar: 302
+Pinell de Solsones: 0
+Pinos: 0
+Pira: 0
+Planoles: 0
+Poboleda: 0
+Polinya: 0
+Pont de Molins: 0
+Pontils: 0
+Pontons: 0
+Pontos: 0
+Ponts: 0
+Porqueres: 0
+Porrera: 0
+Portbou: 0
+Pradell de la Teixeta: 0
+Prades: 0
+Prat de Comte: 0
+Pratdip: 0
+Prats de Llucanes: 0
+Prats i Sansor: 0
+Preixana: 0
+Preixens: 0
+Premia de Dalt: 0
+Premia de Mar: 37
+Prullans: 42
+Puigcerda: 126
+Puigdalber: 0
+Puiggros: 0
+Puigpelat: 0
+Puig-reig: 0
+Puigverd d'Agramunt: 0
+Puigverd de Lleida: 0
+Pujalt: 0
+Quart: 0
+Queralbs: 0
+Querol: 0
+Rabos: 0
+Rajadell: 0
+Rasquera: 0
+Regencos: 0
+Rellinars: 0
+Renau: 0
+Reus: 1015
+Rialp: 32
+Riba-roja d'Ebre: 34
+Ribera d'Ondara: 41
+Ribera d'Urgellet: 0
+Ribes de Freser: 0
+Riells i Viabrea: 0
+Riner: 0
+Ripoll: 0
+Ripollet: 64
+Riu de Cerdanya: 0
+Riudarenes: 0
+Riudaura: 0
+Riudecanyes: 0
+Riudecols: 0
+Riudellots de la Selva: 0
+Riudoms: 0
+Riumors: 0
+Roda de Bera: 526
+Roda de Ter: 0
+Rodonya: 0
+Roquetes: 0
+Roses: 1025
+Rossello: 63
+Rubi: 629
+Rubio: 0
+Rupia: 0
+Rupit i Pruit: 101
+Sabadell: 1317
+Sagas: 0
+Salas de Pallars: 0
+Saldes: 0
+Sales de Llierca: 0
+Sallent: 0
+Salomo: 477
+Salou: 20501
+Salt: 0
+Sanauja: 98
+Sant Adria de Besos: 505
+Sant Agusti de Llucanes: 0
+Sant Andreu de la Barca: 0
+Sant Andreu de Llavaneres: 57
+Sant Andreu Salou: 0
+Sant Aniol de Finestres: 0
+Sant Antoni de Vilamajor: 0
+Sant Bartomeu del Grau: 49
+Sant Boi de Llobregat: 526
+Sant Boi de Llucanes: 0
+Sant Cebria de Vallalta: 0
+Sant Celoni: 0
+Sant Climent de Llobregat: 0
+Sant Climent Sescebes: 64
+Sant Cugat del Valles: 1286
+Sant Cugat Sesgarrigues: 0
+Sant Esteve de la Sarga: 0
+Sant Esteve de Palautordera: 0
+Sant Esteve Sesrovires: 0
+Sant Feliu de Buixalleu: 0
+Sant Feliu de Codines: 0
+Sant Feliu de Guixols: 362
+Sant Feliu de Llobregat: 32
+Sant Feliu de Pallerols: 0
+Sant Feliu Sasserra: 0
+Sant Ferriol: 0
+Sant Fost de Campsentelles: 0
+Sant Fruitos de Bages: 0
+Sant Gregori: 0
+Sant Guim de Freixenet: 0
+Sant Guim de la Plana: 0
+Sant Hilari Sacalm: 0
+Sant Hipolit de Voltrega: 0
+Sant Iscle de Vallalta: 0
+Sant Jaume de Llierca: 0
+Sant Jaume dels Domenys: 0
+Sant Jaume d'Enveja: 0
+Sant Joan de les Abadesses: 0
+Sant Joan de Vilatorrada: 0
+Sant Joan Despi: 125
+Sant Joan les Fonts: 0
+Sant Jordi Desvalls: 0
+Sant Julia de Cerdanyola: 0
+Sant Julia de Ramis: 0
+Sant Julia de Vilatorta: 0
+Sant Julia del Llor i Bonmati: 0
+Sant Just Desvern: 246
+Sant Llorenc de la Muga: 0
+Sant Llorenc de Morunys: 0
+Sant Llorenc d'Hortons: 0
+Sant Llorenc Savall: 0
+Sant Marti d'Albars: 0
+Sant Marti de Centelles: 0
+Sant Marti de Llemena: 0
+Sant Marti de Riucorb: 0
+Sant Marti de Tous: 0
+Sant Marti Sarroca: 0
+Sant Marti Sesgueioles: 0
+Sant Marti Vell: 0
+Sant Mateu de Bages: 0
+Sant Miquel de Campmajor: 0
+Sant Miquel de Fluvia: 0
+Sant Mori: 0
+Sant Pau de Seguries: 0
+Sant Pere de Ribes: 135
+Sant Pere de Riudebitlles: 0
+Sant Pere de Torello: 0
+Sant Pere de Vilamajor: 0
+Sant Pere Pescador: 213
+Sant Pere Sallavinera: 0
+Sant Pol de Mar: 137
+Sant Quinti de Mediona: 0
+Sant Quirze de Besora: 0
+Sant Quirze del Valles: 0
+Sant Quirze Safaja: 0
+Sant Ramon: 0
+Sant Sadurni d'Anoia: 0
+Sant Sadurni d'Osormort: 0
+Sant Salvador de Guardiola: 0
+Sant Vicenc de Castellet: 0
+Sant Vicenc de Montalt: 0
+Sant Vicenc de Torello: 0
+Sant Vicenc dels Horts: 35
+Santa Barbara: 0
+Santa Cecilia de Voltrega: 0
+Santa Coloma de Cervello: 0
+Santa Coloma de Farners: 39
+Santa Coloma de Gramenet: 474
+Santa Coloma de Queralt: 0
+Santa Cristina d'Aro: 137
+Santa Eugenia de Berga: 0
+Santa Eulalia de Riuprimer: 0
+Santa Eulalia de Roncana: 0
+Santa Fe del Penedes: 0
+Santa Llogaia d'Alguema: 0
+Santa Margarida de Montbui: 0
+Santa Margarida i els Monjos: 32
+Santa Maria de Besora: 0
+Santa Maria de Martorelles: 0
+Santa Maria de Merles: 0
+Santa Maria de Miralles: 0
+Santa Maria de Palautordera: 0
+Santa Maria d'Olo: 0
+Santa Oliva: 0
+Santa Pau: 0
+Santa Perpetua de Mogoda: 40
+Santa Susanna: 574
+Santpedor: 0
+Sarral: 0
+Sarria de Ter: 0
+Sarroca de Bellera: 0
+Sarroca de Lleida: 0
+Savalla del Comtat: 0
+Senterada: 0
+Sentmenat: 0
+Serinya: 30
+Seros: 0
+Serra de Daro: 0
+Setcases: 0
+Seva: 0
+Sidamon: 0
+Sils: 106
+Sitges: 1495
+Siurana: 0
+Sobremunt: 0
+Solivella: 0
+Solsona: 0
+Sora: 0
+Soriguera: 0
+Sort: 155
+Soses: 0
+Subirats: 0
+Sudanell: 0
+Suria: 0
+Susqueda: 0
+Tagamanent: 0
+Talamanca: 0
+Talarn: 0
+Talavera: 0
+Taradell: 127
+Tarragona: 2820
+Tarrega: 130
+Tarres: 0
+Tarroja de Segarra: 0
+Tavernoles: 0
+Tavertet: 0
+Teia: 0
+Termens: 0
+Terrades: 104
+Terrassa: 1030
+Tiana: 0
+Tirvia: 0
+Tiurana: 0
+Tivenys: 0
+Tivissa: 0
+Tona: 0
+Tora: 0
+Tordera: 0
+Torello: 0
+Tornabous: 0
+Torrebesses: 0
+Torredembarra: 480
+Torrefarrera: 0
+Torrefeta i Florejacs: 0
+Torregrossa: 0
+Torrelameu: 0
+Torrelavit: 0
+Torrelles de Foix: 0
+Torrelles de Llobregat: 33
+Torrent: 195
+Torres de Segre: 0
+Torre-serona: 0
+Torroella de Fluvia: 0
+Torroella de Montgri: 920
+Torroja del Priorat: 0
+Tortella: 55
+Tortosa: 275
+Toses: 0
+Tossa de Mar: 1177
+Tremp: 0
+Ulla: 0
+Ullastrell: 0
+Ullastret: 0
+Ulldecona: 0
+Ulldemolins: 0
+Ultramort: 0
+Urus: 0
+Vacarisses: 0
+Vall de Cardos: 0
+Vallbona d'Anoia: 0
+Vallbona de les Monges: 0
+Vallcebre: 0
+Vallclara: 0
+Vallfogona de Balaguer: 0
+Vallfogona de Ripolles: 0
+Vallfogona de Riucorb: 0
+Vallgorguina: 0
+Vallirana: 31
+Vall-llobrega: 0
+Vallmoll: 0
+Vallromanes: 0
+Valls: 229
+Vandellos i l'Hospitalet de l'Infant: 503
+Veciana: 0
+Ventallo: 0
+Verdu: 0
+Verges: 0
+Vespella de Gaia: 42
+Vic: 390
+Vidra: 0
+Vidreres: 1354
+Vielha e Mijaran: 5783
+Vilabella: 0
+Vilabertran: 0
+Vilablareix: 0
+Vilada: 0
+Viladamat: 0
+Viladasens: 0
+Viladecans: 916
+Viladecavalls: 0
+Vilademuls: 0
+Viladrau: 0
+Vilafant: 0
+Vilafranca del Penedes: 332
+Vilagrassa: 0
+Vilajuiga: 0
+Vilalba dels Arcs: 0
+Vilalba Sasserra: 0
+Vilaller: 0
+Vilallonga de Ter: 0
+Vilallonga del Camp: 0
+Vilamacolum: 0
+Vilamalla: 0
+Vilamaniscle: 0
+Vilamos: 0
+Vilanant: 0
+Vilanova de Bellpuig: 0
+Vilanova de la Barca: 0
+Vilanova de l'Aguda: 0
+Vilanova de Meia: 0
+Vilanova de Prades: 0
+Vilanova de Sau: 0
+Vilanova de Segria: 0
+Vilanova del Cami: 0
+Vilanova del Valles: 0
+Vilanova d'Escornalbou: 60
+Vilanova i la Geltru: 540
+Vilaplana: 0
+Vila-rodona: 0
+Vila-sacra: 0
+Vila-sana: 202
+Vila-seca: 3347
+Vilassar de Dalt: 0
+Vilassar de Mar: 104
+Vilaur: 0
+Vilaverd: 0
+Vilobi del Penedes: 0
+Vilobi d'Onyar: 0
+Vilopriu: 0
+Vimbodi i Poblet: 0
+Vinaixa: 0
+Vinebre: 0
+Vinyols i els Arcs: 0
+Viver i Serrateix: 0
+Xerta: 0
+Rocafort de Queralt: 0
+Sant Joan de Mollet: 0
+Senan: 0
+Llorac: 0
+Sant Jaume de Frontanya: 0
+Sunyer: 0

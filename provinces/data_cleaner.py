@@ -1,8 +1,8 @@
 import csv
 
 # Define the input and output file names
-input_file = '../data/53000.csv'
-output_file = '../data/cleaned_53000.csv'
+input_file = '53000.csv'
+output_file = '../no cal mirar/data/cleaned_53000.csv'
 
 # Open the input file and output file
 with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', newline='', encoding='utf-8') as outfile:
